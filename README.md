@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> 
 
-<p align="left"> <a href="https://linkedin.com/in/yoga-aparnaa-indian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoga aparnaa indian" height="30" width="40" /></a>
- </p>
-
 - 🌱 I’m currently learning **flutter.**
 
 - 📫 How to reach me **aparnaakumar1308reddy@gmail.com**
